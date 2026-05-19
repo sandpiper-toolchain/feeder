@@ -1,12 +1,10 @@
-feeder
-======
+# feeder
 
 Open-source sediment feeders for geomorphology experiments.
 
 ![exploded light duty feeder](/feeders/light_duty/media/light_duty_cover.png)
 
-Getting started
----------------
+## Getting started
 
 A single feeder setup consists of a "motor assembly" and a "feeder".
 To the maximum extent possible any of the described motor assemblies and feeders can be mixed-and-matched to create a complete feeder setup.

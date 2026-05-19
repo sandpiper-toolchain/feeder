@@ -1,5 +1,4 @@
-light duty feeder
-=================
+# light duty feeder
 
 This feeder was designed to deliver rice grains for "rice pile" type experiments.
 
@@ -11,8 +10,7 @@ This feeder may not be sutiable for clastic sediments, due to the inherent stren
 The design and print instructions are optimized for easy printing and maximum strength for FDM printing.  
 
 
-Bill of Materials
------------------
+## Bill of Materials
 
 ![exploded light duty feeder](/feeders/light_duty/media/light_duty_labeled.png)
 
@@ -24,18 +22,16 @@ Bill of Materials
 
 * you will need various allen wrenches, a small hacksaw, screwdriver, etc
 
-Instructions and build notes
-----------------------------
 
-Build notes
-^^^^^^^^^^^
+## Instructions and build notes
+
+### Build notes
 
 * The `end_cap` has mounting holes for NEMA 17 and 23 stepper motors, as well as the AC motor listed in the motor assembly section. 
 * The `chute` has a mounting point for a 608 bearing. The feeder may function fine without the bearing, but will have considerably more play in the auger shaft.
 * The `auger` is designed for a motor assembly with an 8mm D shaft.
 
-Printing
-^^^^^^^^
+### Printing
 
 All components can be printed in material of your choice. 
 PLA works well, but PETG or ABS may provide stronger components. 
@@ -49,8 +45,7 @@ All parts can be printed with 15% infill, except the auger, which should be prin
 * End cap should be printed on motor side.
 * Hopper should be printed on wide end (i.e., upside down funnel). 
 
-Assembly
-^^^^^^^^
+### Assembly
 
 After printing all components:
 1. using a saw, cut a small notch in end of one side of the long edge of the PVC tee, with the notch on the same side as the short side of the tee.
@@ -60,4 +55,3 @@ After printing all components:
 1. slide `auger` onto motor output shaft and tighten MX set screw.
 1. slide `chute` over `auger` and align with notch in PVC tee. Some force may be required to seat the `auger` end into the bearing.
 1. insert `hopper` into PVC tee.
-
