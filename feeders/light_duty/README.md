@@ -22,6 +22,7 @@ The design and print instructions are optimized for easy printing and maximum st
 * 1 x M4 by 5 mm set screw
 * [a motor assembly](/motor_assemblies/) with 8 mm output shaft, and appropriate mounting screws
 * 3D-printed components (see below)
+* CA glue
 
 You also will need standard tools, likely including Allen wrenches, a hacksaw, a screwdriver, etc.
 
@@ -35,6 +36,8 @@ You also will need standard tools, likely including Allen wrenches, a hacksaw, a
 * The `auger` is designed for a motor assembly with an 8 mm D shaft.
 
 ### Printing
+
+**.stl files are found above in the folder vX.X.**
 
 All components can be printed in material of your choice. 
 PLA works well, but PETG or ABS may provide stronger components. 
