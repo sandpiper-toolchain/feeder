@@ -20,5 +20,5 @@ This repository provides the information to build the following:
 
 **motor assemblies**
 
-* manual_control_ac_motor
+* [manual_control_ac_motor](/motor_assemblies/)
 * ~multi_control_dc_motor~ (not yet available)
