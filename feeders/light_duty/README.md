@@ -2,7 +2,7 @@
 
 This feeder was designed to deliver rice grains for "rice pile" type experiments.
 
-![light duty feeder assembly rendered](/feeders/light_duty/media/light_duty_rendered.png){height=420}
+![light duty feeder assembly rendered](/feeders/light_duty/media/light_duty_render.png)
 
 A driving design principle for the light duty feeder is extremely low cost.
 This has been achieved by using an off-the-shelf plumbing part for the main feeder housing, and standard hardware and mounting configurations. 
@@ -14,7 +14,7 @@ The design and print instructions are optimized for easy printing and maximum st
 
 ## Bill of Materials
 
-![exploded light duty feeder](/feeders/light_duty/media/light_duty_labeled.png){width=600}
+![exploded light duty feeder](/feeders/light_duty/media/light_duty_labeled.png)
 
 * 1 x 1 inch schedule 40 PVC tee connector
 * 1 x 608RS bearing
